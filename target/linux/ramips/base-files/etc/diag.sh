@@ -76,6 +76,7 @@ get_status_led() {
 	awapn2403|\
 	dir-645|\
 	sk-wb8|\
+	tplink,tl-mr3020-v3|\
 	wrh-300cr)
 		status_led="$boardname:green:wps"
 		;;
